@@ -5,7 +5,8 @@ Have a look of Usefuel Information About CronaVirus RestApi  [http://softbike.he
 
 ### Automatically trigger data  in 1hour
 
-COVID-19/2019-nCoV time series infection data warehouse, the data source is [https://ncov.dxy.cn/ncovh5/view/pneumonia]( Ding Xiang Yuan)
+COVID-19/2019-nCoV time series infection data warehouse, the data source is[Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia)
+
 
 #### Researchers
 Recently, many college  students and friends contacted me, hoping to use these data for scientific research. However, not everyone is familiar with the use of APIs and the format of JSON, so here is the soon data warehouse to publish the latest data in CSV format, which can be easily processed and loaded by most software.
