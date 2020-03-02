@@ -5,7 +5,7 @@ Have a look of Usefuel Information About CronaVirus RestApi  [http://softbike.he
 
 ### Automatically trigger data  in 1hour
 
-COVID-19/2019-nCoV time series infection data warehouse, the data source is[Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia)
+COVID-19/2019-nCoV time series infection data warehouse, the data source is [Ding Xiang Yuan](https://ncov.dxy.cn/ncovh5/view/pneumonia)
 
 
 #### Researchers
